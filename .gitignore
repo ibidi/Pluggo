@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+.codex/
+dist/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.swp
+*.log
